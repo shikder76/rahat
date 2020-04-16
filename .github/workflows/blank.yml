@@ -1,14 +1,14 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Rahat
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+on:00270682371301
+  push:shikder
+    : [ shikder ]
+  pull_request:shikder
+    branches: [ shikder ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
